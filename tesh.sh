@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo " Hello this is my first git code"
+echo " Hello this is my second git code"
